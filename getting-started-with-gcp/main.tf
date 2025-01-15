@@ -9,4 +9,13 @@ terraform {
 
 provider "google" {
     # Configuration options
+    project = "top-cascade-446019-e0"
+    region = "europe-west3"
+    zone = "europe-west3-a" 
+    credentials = "../gcp-keys.json"
+}
+
+resource "google_storage_bucket" "gcs1" {
+    name = "bucket-from-tf-up-deep"
+    location = "europe-west3"
 }
