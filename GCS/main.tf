@@ -18,7 +18,7 @@ resource "google_storage_bucket" "gcs1" {
     }
 
     retention_policy {
-        is_locked = false
+        is_locked = false # important dont change to True
         retention_period = 3000
     }
 }
