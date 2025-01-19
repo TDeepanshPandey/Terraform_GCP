@@ -62,6 +62,8 @@ lifecycle {
 
 **Service Account:** It is used to authenticate the Terraform with GCP. It is a JSON file that contains the credentials. Better to use for application to application interaction.
 
+- Even with Owner role, we need Storage Admin role to add items to bucket.
+
 
 ### Folder Description
 - first-tf-script: Contains the first terraform script to create a local file.
