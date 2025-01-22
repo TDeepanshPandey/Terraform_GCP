@@ -4,6 +4,8 @@ Learning Terraform in GCP
 
 Terraform is a tool for infrastructure provision. It uses own language Hashicorp Configuration Language (HCL) to define the infrastructure. It is a declarative language, which means you define the desired state of the infrastructure and Terraform will make it so.
 
+![Certificate Link](https://www.udemy.com/certificate/UC-5d26bb86-d78e-4d43-b54f-53196ebe454b/)
+
 ### Installation
 
 Download Terraform from [here](https://www.terraform.io/downloads.html) and add it to the environment path.
