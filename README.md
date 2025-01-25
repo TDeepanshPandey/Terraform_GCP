@@ -1,3 +1,4 @@
+![Image_Logo](https://github.com/TDeepanshPandey/Terraform_GCP/blob/main/Terraform%20on%20GCP%20Logo.png)
 # Terraform_GCP
 
 Learning Terraform in GCP
