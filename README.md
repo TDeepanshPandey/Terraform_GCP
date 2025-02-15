@@ -1,5 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87/project/9fe2f7c3-00ea-4fda-83fc-7371866b9ce2.svg)](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87/project/9fe2f7c3-00ea-4fda-83fc-7371866b9ce2)
 
+![Image_Logo](https://github.com/TDeepanshPandey/Terraform_GCP/blob/main/Terraform%20on%20GCP%20Logo.png)
 # Terraform_GCP
 
 Learning Terraform in GCP
