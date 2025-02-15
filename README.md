@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87/project/9fe2f7c3-00ea-4fda-83fc-7371866b9ce2.svg)](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87/project/9fe2f7c3-00ea-4fda-83fc-7371866b9ce2)
+
 # Terraform_GCP
 
 Learning Terraform in GCP
